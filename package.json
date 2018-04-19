@@ -1,0 +1,18 @@
+{
+  "name": "json-sort",
+  "main": "./lib/json-sort",
+  "version": "1.0.0",
+  "description": "Alphabetically sorts your JSON files, see README.md for how to run",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "json-sort:sort"
+  },
+  "repository": "https://github.com/atom/json-sort",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

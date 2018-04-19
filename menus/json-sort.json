@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "json-sort",
+        "command": "json-sort:sort"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "json-sort",
+          "submenu": [
+            {
+              "label": "Alphabetize JSON",
+              "command": "json-sort:sort"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
