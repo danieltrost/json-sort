@@ -1,7 +1,7 @@
 {
   "name": "json-sort",
   "main": "./lib/json-sort",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Alphabetically sorts your JSON files, see README.md for how to run",
   "keywords": [],
   "activationCommands": {
