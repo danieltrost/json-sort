@@ -1,5 +1,5 @@
 # json-sort
-This atom plugin allows you sort JSON in the text editor. Additionally, this will format the JSON to be indented with 4 spaces.
+This atom plugin allows you sort JSON in the text editor. Additionally, this will format the JSON to be indented with 4 spaces by default, however, it can be configured within the package settings to your desired indent.
 
 
 ## How to use json-sort
